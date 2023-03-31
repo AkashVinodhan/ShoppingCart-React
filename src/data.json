@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Fancy Product",
+    "hasRating": false,
+    "isInCart": false,
+    "price": "$40.00 - $80.00",
+    "id": 1
+  },
+  {
+    "name": "Special Item",
+    "hasRating": true,
+    "isInCart": false,
+    "rating": 5,
+    "oldPrice": "$20.00",
+    "newPrice": "$18",
+    "id": 2
+  },
+  {
+    "name": "Sale Item",
+    "hasRating": false,
+    "isInCart": false,
+    "oldPrice": "$50.00",
+    "newPrice": "$25.00",
+    "id": 3
+  },
+  {
+    "name": "Popular Item",
+    "hasRating": true,
+    "isInCart": false,
+    "rating": 4,
+    "price": "$40.00",
+    "id": 4
+  },
+  {
+    "name": "Fancy Product",
+    "hasRating": false,
+    "isInCart": false,
+    "price": "$40.00 - $80.00",
+    "id": 5
+  },
+  {
+    "name": "Special Item",
+    "hasRating": true,
+    "isInCart": false,
+    "rating": 4,
+    "oldPrice": "$20.00",
+    "newPrice": "$18",
+    "id": 6
+  },
+  {
+    "name": "Sale Item",
+    "hasRating": false,
+    "isInCart": false,
+    "oldPrice": "$50.00",
+    "newPrice": "$25.00",
+    "id": 7
+  },
+  {
+    "name": "Popular Item",
+    "hasRating": true,
+    "isInCart": false,
+    "rating": 5,
+    "price": "$40.00",
+    "id": 8
+  }
+]
